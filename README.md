@@ -4,6 +4,12 @@ flag-icon-css
 CSS for vector based country flags. See the
 [demo](http://lipis.github.io/flag-icon-css/).
 
+NOTE: Fork version
+------------------
+For performance reason the svg flags were converted to png 18x14 (px)
+using the inkscape with the convert.sh bash script. 
+
+
 Usage
 -----
 
